@@ -40,6 +40,7 @@ Concepts to be covered:
       +-- writeup/
 ```
 3. README - a plain text file that gives a description of the project, information about what is contained in the directory and subdirectories, file naming scheme, any other information that would help you remember where you are and what you're doing, information that would help someone else understand your files
+- Details from website: https://libraries.ou.edu/content/how-make-readmetxt-file
 
 4. Spreadsheet or Database? **_I welcome comments/suggestions/reading material from anyone since this is not an area that I know much about_**
 
