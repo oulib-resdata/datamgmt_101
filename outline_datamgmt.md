@@ -46,12 +46,14 @@ Concepts to be covered:
 
 Workshop centered around the activity - give learners example project files with some good and some bad data management
 - Digital (would require learners to bring computers and either download before the workshop or take time at the beginning; not ideal for a 50-60min session)
-- Paper - have several kits ready and distribute them at the beginning
-  - envelopes with "data" inside as files, some have "good" file names written on the envelope
-  - folder(s) with "files" inside, some good practices, some bad
-  - notebook paper attached to some folders as README
+- Paper - have several kits ready and distribute them at the beginning; bring extra materials for "fixing"; each kit contains:
+  - Files w/examples of good and bad file naming
+     - images/plots w/filename written on back
+     - envelopes with "data" inside
+  - Directories - folder(s) with "files" inside, some good practices, some bad
+  - README - notebook paper attached to some folders
 
 Activities
 1. "Can you find measurement *A* taken on *this* date?"  discuss file naming, organization
-2. Disscuss positives and negatives of each "kit"
-3. Fix each kit
+2. Discuss positives and negatives of each "kit"
+3. Fix each kit - more folders, add READMEs, write/draw directory map
