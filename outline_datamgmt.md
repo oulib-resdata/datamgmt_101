@@ -12,14 +12,21 @@ Session goals for participants:
 
 ***
 
-Motivation. Why you should care. [~5 mins] Managing Research Data allows you to plan ahead, make choices about how you will save and organize your data.  Considering these things early helps with
-* ability to find files
-* ability to understand what is contained in your files
-* sharing data/files/results
-* collaboration
+Motivation. Why you should care. [~5 mins] 
+   - What? The way your data is organized/saved; e.g.
+      * file names/organization
+      * where data is stored & backed up
+      * long-term - how data will be made public
+   - Planning early, as you begin helps with
+      * ability to find files
+      * ability to understand what is contained in your files
+      * sharing data/files/results
+      * collaboration
+   - Today discuss some simple steps to manage your data to hopefully same you some grief/time later 
 
 Show example research project files and discuss. [5-7 mins]
-   Leading questions; e.g "I come back to this after working on a job application.  Where is the data I collected on December 17?", "What is this file/directory?"  
+  "Amanda's Research Project - a graduate student is studying spiral galaxies and the supermassive black holes at the center of these galaxies.  She has images, spectra, some preliminary measurements and analysis, as well as some background information in this directory."
+  Amanda will share this folder with an undergrad working with her over the summer.  Take just a few minutes to discuss/think about what information the undergrad can get just by looking at this.
 
 Concepts to be covered; use above discussion when possible
 1. File Naming [7-10 mins]
